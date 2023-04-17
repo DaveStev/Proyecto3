@@ -1,0 +1,28 @@
+/* CONTENEDOR */
+.contenedor {
+    position: relative;
+    top: 50px;
+    width: 500px;
+    margin: auto;
+    background-color: black;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+/* TITULO */
+.titulo{
+    font-size: 20px;
+    color: white;
+}
+
+/* BOTON REGISTRAR */
+.boton {
+    background-color: #FFFFFF;
+    color: #2c5297;
+}
+
+.boton:hover {
+    background-color: #2c5297;
+    color: #FFFFFF;
+}
+
